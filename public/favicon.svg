@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32">
+  <!-- Upper Half (Red) -->
+  <path
+    d="M 12 2 C 6.48 2 2 6.48 2 12 C 2 12.34 2.03 12.67 2.07 13 L 21.93 13 C 21.97 12.67 22 12.34 22 12 C 22 6.48 17.52 2 12 2 Z"
+    fill="#EF4444"
+  />
+  <!-- Bottom Half (White) -->
+  <path
+    d="M 2.07 13 C 2.45 17.72 6.38 21.55 11.12 21.93 C 11.41 21.96 11.71 22 12 22 C 17.52 22 22 17.52 22 12 C 22 12.34 21.97 12.01 21.93 11.67 L 2.07 11.67 Z"
+    fill="#F3F4F6"
+  />
+  <!-- Center Line (Black/Slate) -->
+  <rect x="1" y="11" width="22" height="2" fill="#1E293B" rx="0.5" />
+  <!-- Outer Ring -->
+  <circle cx="12" cy="12" r="10" fill="none" stroke="#1E293B" stroke-width="1.5" />
+  <!-- Center Button Outer -->
+  <circle cx="12" cy="12" r="4.5" fill="#1E293B" />
+  <!-- Center Button Inner -->
+  <circle cx="12" cy="12" r="2.5" fill="#FFFFFF" />
+</svg>
